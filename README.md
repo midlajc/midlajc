@@ -1,4 +1,4 @@
-### <img src="https://github.com/midlajc/midlajc/assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/midlajc/midlajc/assets/Earth.gif" width="24px">
+### <img src="https://github.com/midlajc/midlajc/blob/master/assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/midlajc/midlajc/blob/master/assets/Earth.gif" width="24px">
 
 <p>
   <em>
@@ -18,13 +18,13 @@
 <br>
 
   <a href="https://twitter.com/midlajc1">
-    <img align="left" alt="Midlaj C | Twitter" width="26px" src="https://github.com/midlajc/midlajc/assets/Twitter.svg" />
+    <img align="left" alt="Midlaj C | Twitter" width="26px" src="https://github.com/midlajc/midlajc/blob/master/assets/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/_midlaj_c/">
-    <img align="left" alt="Midlaj C | Instagram" width="24px" src="https://github.com/midlajc/midlajc/assets/Instagram.svg" />
+    <img align="left" alt="Midlaj C | Instagram" width="24px" src="https://github.com/midlajc/midlajc/blob/master/assets/Instagram.svg" />
   </a>
   <a href="mailto:mail.midlajc@gmail.com">
-    <img align="left" alt="Midlaj C | Gmail" width="26px" src="https://github.com/midlajc/midlajc/assets/Gmail.svg" />
+    <img align="left" alt="Midlaj C | Gmail" width="26px" src="https://github.com/midlajc/midlajc/blob/master/assets/Gmail.svg" />
   </a>
 
 
