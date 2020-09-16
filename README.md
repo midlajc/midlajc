@@ -12,7 +12,7 @@
 
 <br>
 
-![Midlaj C's github page views](https://komarev.com/ghpvc/?username=midlajc)
+![Midlaj C's github page views](https://komarev.com/ghpvc/?username=midlajc&color=brightgreen)
 
 <br>
 <br>
