@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    I am a 2nd Year undergraduate from <b>Wmo Arts and Science College</b>, Wayanad, Kerala. 
+    I am a 3rd Year undergraduate from <b>Wmo Arts and Science College</b>, Wayanad, Kerala. 
   </em>
 </p>
 
