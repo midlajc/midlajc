@@ -12,11 +12,11 @@
 
 <br>
 
-![Midlaj C's github page views](https://komarev.com/ghpvc/?username=midlajc&color=brightgreen)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Midlaj C's github page views](https://komarev.com/ghpvc/?username=midlajc&color=brightgreen)
 
 <br>
 <br>
