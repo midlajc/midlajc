@@ -7,9 +7,9 @@
 </p>
 
 <br>
-
+<div style="width="10rem">
 ![Midlaj C's github stats](https://github-readme-stats.vercel.app/api?username=midlajc&count_private=true&show_icons=true&theme=radical)
-
+</div>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midlajc&layout=compact&theme=radical)
