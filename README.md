@@ -23,7 +23,6 @@
 ![Midlaj C's github page views](https://komarev.com/ghpvc/?username=midlajc&color=brightgreen)
 
 <br>
-
   <a href="https://twitter.com/midlajc1">
     <img align="left" alt="Midlaj C | Twitter" width="26px" src="https://github.com/midlajc/midlajc/blob/master/assets/Twitter.svg" />
   </a>
