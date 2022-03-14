@@ -7,10 +7,14 @@
 </p>
 
 <br>
+<a href="#"><img align="right" width="25%" height="25%" src="assets/coding.gif"/></a>
 
 <img alt="Midlaj's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=midlajc&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" />
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=midlajc&theme=dark&date_format=M%20j%5B%2C%20Y%5D) -->
 
+<br>
+<br>
+<br>
 <br>
 
 <a href=""><img alt="Midlaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=midlajc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href=""><img alt="Midlaj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlajc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
