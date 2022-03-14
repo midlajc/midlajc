@@ -1,9 +1,10 @@
 ### <img src="https://github.com/midlajc/midlajc/blob/master/assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/midlajc/midlajc/blob/master/assets/Earth.gif" width="24px">
 
 <p>
-  <em>
+<!--   <em>
     I am a 3rd Year undergraduate from <b>Wmo Arts and Science College</b>, Wayanad, Kerala. 
-  </em>
+  </em> -->
+  <img src="https://readme-typing-svg.herokuapp.com?color=71C5F7&background=3FD1FF00&width=700&lines=MERN+Stack+Developer;Intern+at+Virtual+Pursuit;3rd+Year+BCA+undergraduate;keep+looking,+and+don't+settle" alt="MERN Stack Developer">
 </p>
 
 <br>
