@@ -31,6 +31,8 @@
   <a href="https://www.buymeacoffee.com/midlajc"><img width="32px" alt="buymeacoffee" title="buymeacoffee" src="https://spiritedisle.ie/resources/uploads/2021/09/download1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/midlajc/"><img width="32px" alt="github" title="github" src="https://cdn-icons.flaticon.com/png/512/3291/premium/3291695.png?token=exp=1647278901~hmac=6e1da25cb865db49f9f83bd59720b693"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:mail.midlajc@gmail.com"><img width="32px" alt="gamil" title="gamil" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1647279600~hmac=d282b0adace3958297a58781bd2c7f46"></a>
 </p>
 
 <br>
