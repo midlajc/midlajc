@@ -12,13 +12,15 @@
 
 <br>
 
-![Midlaj C's github stats](https://github-readme-stats.vercel.app/api?username=midlajc&count_private=true&show_icons=true&theme=dark)
+<a href=""><img alt="Midlaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=midlajc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href="https://github.com/reenphygeorge/github-readme-stats"><img alt="Midlaj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlajc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<!-- ![Midlaj C's github stats](https://github-readme-stats.vercel.app/api?username=midlajc&count_private=true&show_icons=true&theme=dark)
                          
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midlajc&layout=compact&theme=dark)
 
-<br>
+<br> -->
 
 ![Midlaj C's github page views](https://komarev.com/ghpvc/?username=midlajc&color=brightgreen)
 
