@@ -6,7 +6,7 @@
     <img src="https://github.com/midlajc/midlajc/blob/master/assets/Hi.gif" width="29px">
 </h3>
 
-<p align="center"">
+<p align="center">
 <!--   <em>
     I am a 3rd Year undergraduate from <b>Wmo Arts and Science College</b>, Wayanad, Kerala. 
   </em> -->
@@ -46,21 +46,23 @@
 
 <a href=""><img alt="Midlaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=midlajc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href=""><img alt="Midlaj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlajc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<h3>Softwares</h3>
 
-<p>
-<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>&nbsp;<img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/nginx.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/console.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
-</p>
 
-<h3>Languages</h3>
+<h3 align="center">Languages</h3>
 
-<p>
+<p align="center">
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/react-native.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/flutter.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/html-5.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3>Databases</h3>
+<h3 align="center">Softwares</h3>
 
-<p>
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>&nbsp;<img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/nginx.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/console.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+</p>
+
+<h3 align="center">Databases</h3>
+
+<p align="center">
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/maria-db.png"/>
 </p>
 
