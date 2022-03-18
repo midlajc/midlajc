@@ -20,7 +20,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://wa.me/+918137998446"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/midlajc#2462"><img width="32px" alt="Discord" title="Discord" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1647276938~hmac=b27f483c023c2cab0e63eefd26f8b54b"/></a>
+  <a href="https://discord.com/users/midlajc#2462"><img width="32px" alt="Discord" title="Discord" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/midlajc/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
