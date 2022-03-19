@@ -34,7 +34,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://gitlab.com/midlaj_c"><img width="32px" alt="gitlab" title="gitlab" src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:mail.midlajc@gmail.com"><img width="32px" alt="gamil" title="gamil" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1647279600~hmac=d282b0adace3958297a58781bd2c7f46"></a>
+  <a href="mailto:mail.midlajc@gmail.com"><img width="32px" alt="gamil" title="gamil" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
 </p>
 
 <br>
