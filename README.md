@@ -53,13 +53,13 @@
 <h3 align="center">Languages</h3>
 
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/react-native.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/flutter.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/html-5.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/react-native.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/flutter.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/html-5.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="center">Softwares</h3>
 
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>&nbsp;<img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/nginx.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/console.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>&nbsp;<img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/nginx.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/console.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 </p>
 
 <h3 align="center">Databases</h3>
