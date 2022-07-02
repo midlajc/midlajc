@@ -53,7 +53,7 @@
 <h3 align="center">Languages</h3>
 
 <p align="center">
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/react-native.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/flutter.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/html-5.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/react-native.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/php.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/html-5.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="center">Softwares</h3>
