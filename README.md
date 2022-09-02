@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://t.me/midlajc"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/_midlaj_c"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
+  <a href="https://www.instagram.com/thisismidlajc"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://wa.me/+918137998446"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
