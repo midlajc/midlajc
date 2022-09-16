@@ -67,10 +67,15 @@
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/maria-db.png"/>
 </p>
-
+<!-- 
 <p>
     <img src="https://activity-graph.herokuapp.com/graph?username=midlajc&theme=react-dark">
-</p>
+</p> -->
+
+<div align="center" style="">
+    <img alt="I use Archcraft BTW" align="center" style="width:70%" src="assets/archcraft.png" />
+</div>
+<h3 align="center">i use Archcraft BTW 🌝</h3>
                                                                                            
 <!-- 
 ![Midlaj C's github page views](https://komarev.com/ghpvc/?username=midlajc&color=brightgreen) -->
