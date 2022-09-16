@@ -73,7 +73,7 @@
 </p> -->
 
 <div align="center" style="">
-    <img alt="I use Archcraft BTW" align="center" style="width:70%" src="assets/archcraft.png" />
+    <img alt="I use Archcraft BTW" align="center" style="width:80%" src="assets/archcraft.png" />
 </div>
 <h3 align="center">i use Archcraft BTW 🌝</h3>
                                                                                            
