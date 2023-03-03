@@ -46,7 +46,7 @@
 <br>
 <br>
 
-<a href=""><img alt="Midlaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=midlajc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href=""><img alt="Midlaj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlajc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href=""><img alt="Midlaj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=midlajc&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a><a href=""><img alt="Midlaj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=midlajc&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&exclude_repo=key-keeper,tezla-web,scholarship-portal,midlajc.github.io" /></a>
 
 
 
