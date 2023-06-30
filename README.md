@@ -72,10 +72,12 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=midlajc&theme=react-dark">
 </p> -->
 
+<!--
 <div align="center" style="">
     <img alt="I use Archcraft BTW" align="center" style="width:80%" src="assets/archcraft.png" />
 </div>
 <h3 align="center">i use Archcraft BTW 🌝</h3>
+-->
                                                                                            
 <!-- 
 ![Midlaj C's github page views](https://komarev.com/ghpvc/?username=midlajc&color=brightgreen) -->
